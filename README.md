@@ -14,3 +14,4 @@ It covers:
 
 -Q-Q plots to test for normality
 
+<a herf="https://github.com/keerthi-12334/statistics-implementation-using-python/blob/main/statistics.ipynb">statistics</a>
